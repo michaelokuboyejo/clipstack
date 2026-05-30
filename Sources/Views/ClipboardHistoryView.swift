@@ -117,6 +117,7 @@ struct ClipboardHistoryView: View {
                         }
                     }
                 }
+                .padding(.trailing, 12)
             }
         }
     }
